@@ -1,0 +1,13 @@
+pysqlcipher
+simplejson
+oauth
+u1db
+requests
+six==1.1.0
+scrypt
+routes
+pyxdg
+pycryptopp
+
+[signaling]
+leap.common
