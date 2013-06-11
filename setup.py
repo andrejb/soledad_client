@@ -28,10 +28,8 @@ install_requirements = [
     'oauth',  # this is not strictly needed by us, but we need it
               # until u1db adds it to its release as a dep.
     'u1db',
-    'requests',
     'six==1.1.0',
     'scrypt',
-    'routes',
     'pyxdg',
     'pycrypto',
 ]
@@ -42,6 +40,7 @@ tests_requirements = [
     'nose2',
     'testscenarios',
     'leap.common',
+    'leap.soledad.server',
 ]
 
 
